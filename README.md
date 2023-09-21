@@ -7,7 +7,7 @@ Multi-Lingual Translation: Translate text seamlessly between a wide range of lan
 
 ### User-Friendly Interface: Our user-friendly interface makes it easy for anyone, regardless of language proficiency, to input text and receive accurate translations.
 
-Centralized Hub: LingoNav Hub serves as your centralized hub for all translation needs, providing a one-stop solution for language translation.
+### Centralized Hub: LingoNav Hub serves as your centralized hub for all translation needs, providing a one-stop solution for language translation.
 
 Efficiency and Speed: Experience efficient and rapid translation, allowing you to save time and effort on language-related tasks.
 
