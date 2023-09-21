@@ -3,7 +3,7 @@
 LingoNav Hub is a powerful language translation tool designed to simplify the process of translating text between multiple languages. Whether you need to translate documents, messages, or any other form of written content, LingoNav Hub has you covered.
 
 ## Features
-Multi-Lingual Translation: Translate text seamlessly between a wide range of languages, breaking down language barriers and enabling effective communication.
+'*Multi-Lingual Translation:*' Translate text seamlessly between a wide range of languages, breaking down language barriers and enabling effective communication.
 
 User-Friendly Interface: Our user-friendly interface makes it easy for anyone, regardless of language proficiency, to input text and receive accurate translations.
 
